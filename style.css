@@ -1,0 +1,14 @@
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+/* Alteração no container de barra para ficar no centro (Barras) */
+.container-fluid.my-container-barra {
+    justify-content: center;
+}
+
+/* Alteração no container onde fica barra de preenchimento e botão para ficar no centro (Contas) */
+.container-fluid.my-container-nome {
+    margin-top: 50px;
+    margin-left: 550px;
+}
